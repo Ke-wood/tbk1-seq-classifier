@@ -1,0 +1,34 @@
+# Data: not distributed in this repository
+data/*
+!data/README.md
+code/*/data/
+code/*/data_t01/
+code/*/data_human/
+code/*/counts.tsv
+code/*/features_merged.tsv
+
+# Outputs
+out/
+out_*/
+logs/
+*.log
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.pytest_cache/
+
+# Manuscript, figures and archives
+*.tif
+*.tiff
+*.pdf
+*.docx
+*.pptx
+*.zip
+*.tar.gz
+
+# Secrets
+.env
+.env.*

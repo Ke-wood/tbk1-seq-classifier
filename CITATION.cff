@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, cite the manuscript and the Zenodo archive."
+type: software
+title: "tbk1-seq-classifier: code for validating sequence-based gene-program classifiers"
+authors:
+  - family-names: "Ke"
+    given-names: "JingWen"
+  - family-names: "Guo"
+    given-names: "ZhiPeng"
+year: 2026
+license: MIT
+repository-code: "https://github.com/Ke-wood/tbk1-seq-classifier"
+abstract: "Analysis code for a validation protocol for sequence-based gene-program classifiers, including homology-cluster cross-validation, cluster bootstrap, permutation controls, conditional length increments and expression baselines."
+keywords:
+  - sequence-based classifiers
+  - homology-cluster cross-validation
+  - gene-program classification
+  - planarian
+  - TBK1
